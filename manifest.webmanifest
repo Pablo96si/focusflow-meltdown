@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow Meltdown",
+ "short_name": "Meltdown",
+ "description": "an autism meltdown tracker for parents: log each episode in under a minute (what came before, the early signs, what helped), keep your child's calm-down plan one tap away, and read the pattern report by hour, day, trigger and warning sign before the next appointment. Your child's data never leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
